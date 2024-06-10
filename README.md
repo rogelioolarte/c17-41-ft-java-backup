@@ -40,7 +40,7 @@ Utilizamos las siguientes tecnologias para realizar el desarrollo.
    <img src=https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png width="50" height="50">
    <img src=https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png width="50" height="50">
   <br><br>  <strong>QA</strong>: <br><br>
-   <img src=https://raw.githubusercontent.com/No-Country/c17-41-ft-java/main/selenium.jpg width="50" height="50">
+   <img src=https://github.com/rogelioolarte/c17-41-ft-java-backup/blob/4f16b0b33658e927a76c24ee8fa0fadaa34cac61/selenium.jpg width="50" height="50">
  
  </div>
  
