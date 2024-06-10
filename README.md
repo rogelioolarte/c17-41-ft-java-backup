@@ -52,3 +52,7 @@ Utilizamos las siguientes tecnologias para realizar el desarrollo.
 | Ronan Filloy     | Frontend  | https://www.linkedin.com/in/ronan-filloy-b5266a1a7/ |
 | Rogelio Olarte   | Frontend  | https://www.linkedin.com/in/rogelio-olarte/ |
 | Susan Sandoval   |    QA     | https://www.linkedin.com/in/mariasusanasandoval/ |
+
+
+## Note: 
+- This repository only represents the final joint work of collaborators. Due to problems in the NoCountry repositories, this repository was created.
