@@ -56,3 +56,4 @@ Utilizamos las siguientes tecnologias para realizar el desarrollo.
 
 ## Note: 
 - This repository only represents the final joint work of collaborators. Due to problems in the NoCountry repositories, this repository was created as a backup.
+- The Frontend website is the only active one due to its low consumption in Firebase.
