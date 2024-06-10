@@ -55,4 +55,4 @@ Utilizamos las siguientes tecnologias para realizar el desarrollo.
 
 
 ## Note: 
-- This repository only represents the final joint work of collaborators. Due to problems in the NoCountry repositories, this repository was created.
+- This repository only represents the final joint work of collaborators. Due to problems in the NoCountry repositories, this repository was created as a backup.
