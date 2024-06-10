@@ -1,0 +1,126 @@
+/* Dashboard Page */
+.dashboard-init {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    padding: 2%;
+    @media screen and (max-width: 768px) {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+/* Dashboard Panel */
+.dashboard-pannel-init {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 130%;
+    padding: 5%;
+    border: 0.05rem solid #D9D9D9;
+    & * {
+        background-color: white;
+    }
+}
+.dashboard-button-init {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: white;
+    font-size: 1rem;
+}
+
+/* Dashboard Section */
+.dashboard-section-init {
+    height: 75vh;
+    width: 60%;
+    border: 0.05rem solid #D9D9D9;
+    * {
+        background-color: white;
+    }
+    .forms-adjust-init {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .forms-area-init {
+        margin-left: 10%;
+    }
+}
+.title-create-offer {
+    margin-top: 1rem;
+    margin-bottom: 0.2rem;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 300;
+    font-size: 300%;
+}
+.title-form-init {
+    font-weight: 300;
+    font-size: 2rem;
+    margin-bottom: 1.5%;
+    margin-top: 3%;
+}
+.submit-button-init {
+    background-color: #02BAF2;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 3%;
+    margin-left: 35%;
+}
+.icon-init {
+    margin-right: 0.5rem;
+}
+.icon-arrow {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+.container-recharge {
+    position: relative;
+}
+.note-init {
+    margin-left: 5%;
+    position: absolute;
+    bottom: 0;
+}
+.note-init-form {
+    margin-left: 20%;
+    position: absolute;
+    margin-right: 10%;
+    bottom: 35%;
+}
+.create-offer {
+    width: 50%;
+}
+
+.spinner-init {
+    height: 10rem;
+    width: 10rem;
+}
+.spinner-area {
+    margin-top: 10%;
+}
+.form-recharge { 
+    margin-top: 5%;
+}
+
+.dashboard-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.dashboard-state-area {
+    background-color: white;
+    margin-bottom: 30%;
+    padding: 5%;
+    border-radius: 5%;
+    border: 0.05rem solid #D9D9D9;
+    width: 130%;
+    text-align: center;
+}

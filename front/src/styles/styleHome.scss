@@ -1,0 +1,28 @@
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3.5rem;
+    flex-direction: column;
+}
+.home-title {
+    align-self: center;
+    font-weight: 800;
+    font-size: 4rem;
+}
+.home-banner {
+    align-self: center;
+    color: #767676;
+    font-weight: 300;
+    margin-top: 1.5rem;
+    font-size: 1.3rem;
+}
+.button-home {
+    align-self: center;
+    background-color: #02BAF2;
+    color: white;
+    margin-top: 2rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    font-weight: 400;
+}

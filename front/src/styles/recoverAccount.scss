@@ -1,0 +1,69 @@
+.recover-section {
+    width: calc(45% - 5vw);
+    height: 90vh;
+    background: white;
+    padding-left: 5vw;
+
+    & * {
+        background: white;
+    }
+
+    h1 {
+        font-size: 2rem;
+        color: #02BAF2;
+        margin-bottom: 2vh;
+        padding-top: 8vh;
+    }
+
+    .recover-form {
+        width: 90%;
+    }
+
+    .recover-field {
+        display: block;
+        font-size: 1.1rem;
+        padding: 0.5rem;
+        margin-bottom: 8vh;
+        border: 1px solid black;
+        border-radius: 3px;
+        width: 100%;
+    }
+
+    .recover-field:focus {
+        outline: 1px solid #02BAF2;;
+        border: none;
+    }
+
+    button{
+        margin-bottom: 10vh;
+        border-radius: 3px;
+        background: #02BAF2;
+        border: none;
+        padding: 0.5rem 0.8rem;
+        width: 100%;
+        color: white;
+        text-align: start;
+        transition: 0.3s ease;
+    }
+
+    button:hover {
+        box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.4);
+        transform: translateY(-3px);
+    }
+
+    .fa-chevron-right {
+        background: none;
+        color: white;
+        width: 75%;
+        text-align: end;
+    }
+
+    a {
+        color: #02BAF2;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+}

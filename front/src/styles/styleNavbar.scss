@@ -1,0 +1,68 @@
+.color-background {
+    background-color: white;
+}
+.navbare {
+    @extend .color-background;
+    border-bottom: 0.05rem solid #D9D9D9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    * {
+        background-color: white;
+    }
+}
+
+.logo {
+    @extend .color-background;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+}
+
+.logo-nav {
+    @extend .color-background;
+    width: 70%;
+    display: flex;
+    align-items: center;
+}
+
+.button-init {
+    @extend .color-background;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+.button-init-home {
+    @extend .button-init;
+    margin-right: 2%;
+}
+.button-nav {
+    margin-left: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+.button-init-left {
+    @extend .color-background;
+    @extend .button-nav;
+}
+.button-init-right {
+    @extend .button-nav;
+    background-color: #02BAF2;
+    color: white;
+}
+.nav-img {
+    width: auto;
+    height: 40px;
+    border-radius: 30%;
+}
+.nav-dash {
+    width: 45%;
+}
+.navlink-with-avatar {
+    display: flex;
+    align-content: space-around;
+    align-items: center;
+    width: fit-content;
+}
